@@ -1,3 +1,4 @@
+![logo](https://github.com/AinaYaseen/Ainaa/blob/main/Please%20enter%20a%20title_-001.png)
 <h1 align="center">Hi 👋, I'm Aina Yaseen</h1>
 <h3 align="center">CS Student on a Mission to Learn the future of technology.</h3>
 
